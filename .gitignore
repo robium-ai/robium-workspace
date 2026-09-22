@@ -6,3 +6,6 @@
 
 # Your own application library, created on demand by `robium-ai app new`.
 /my-apps/
+
+# Maintainers also keep the site checkout here so it resolves ../robium-apps.
+/robium-website/
