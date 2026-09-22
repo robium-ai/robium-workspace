@@ -1,0 +1,8 @@
+# Independent checkouts, not submodules. Each keeps its own remote, branches,
+# and history; `npx robium-ai setup` clones them and `update` reviews them
+# without touching your work.
+/robium/
+/robium-apps/
+
+# Your own application library, created on demand by `robium-ai app new`.
+/my-apps/
