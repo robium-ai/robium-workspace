@@ -13,3 +13,12 @@ inside it.
 
 These are independent checkouts, not submodules. Each keeps its own remote,
 branches, and history.
+
+## Repository guidance
+
+Claude Code loads both files below into this session automatically. Other
+agents scope guidance to the enclosing repository, so read the relevant one
+before changing anything under it.
+
+@robium/AGENTS.md
+@robium-apps/AGENTS.md
