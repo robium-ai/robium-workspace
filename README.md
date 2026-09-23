@@ -1,7 +1,9 @@
 # robium-workspace
 
-The parent folder for a Robium setup. It holds the cross-agent map that tells
-Codex, Claude Code, and Gemini CLI which directory owns what, and nothing else.
+The parent folder for a Robium setup. Its tracked files provide the cross-agent
+map that tells Codex, Claude Code, and Gemini CLI which directory owns what.
+The repositories and any optional local backup/archive material inside it
+remain independent and ignored by this checkout.
 
 ```bash
 git clone https://github.com/robium-ai/robium-workspace

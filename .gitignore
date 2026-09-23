@@ -9,3 +9,9 @@
 
 # Maintainers also keep the site checkout here so it resolves ../robium-apps.
 /robium-website/
+
+# Local backup/archive for assets and other materials that may be useful later.
+/robium-backup/
+
+# macOS Finder metadata.
+.DS_Store
